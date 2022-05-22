@@ -1,0 +1,15 @@
+{
+  "name": "AppBudget",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron . --dev"
+  },
+  "keywords": [],
+  "author": "Snylaw",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^18.2.4"
+  }
+}
